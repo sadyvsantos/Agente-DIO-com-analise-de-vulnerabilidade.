@@ -114,6 +114,8 @@ Uma **skill** é uma habilidade do agente, descrita em um guia passo a passo. O 
 | [Plano de estudos](skills/study-plan/SKILL.md) | Organiza o que estudar, em que ordem e em quanto tempo |
 | [Destravar desafio](skills/unblock-challenge/SKILL.md) | Conduz você até a solução de um desafio, sem dar a resposta pronta |
 | [Explicar conceito](skills/explain-concept/SKILL.md) | Explica conceitos de forma didática, com analogias e exemplos |
+| [Vulnerabilidade conceito](skills/vulnerability-analysis/SKILL.md) | O agente possui habilidades relacionadas à segurança |
+
 
 Você não precisa "chamar" uma skill. O agente percebe o que você precisa e usa a skill certa sozinho.
 
